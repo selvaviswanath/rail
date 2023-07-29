@@ -1,13 +1,13 @@
 {
-  "name": "backend",
+  "name": "rail",
   "version": "1.0.0",
-  "description": "backend express api for railway management",
+  "description": "",
   "main": "server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server"
   },
-  "author": "ashwinhprasad",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.5",
